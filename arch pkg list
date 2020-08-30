@@ -1,27 +1,27 @@
 arch  pkg list
-aalib 1.4rc5-14
-acl 2.2.53-3
-adobe-source-code-pro-fonts 2.030ro+1.050it-6
-adobe-source-han-sans-cn-fonts 2.001-2
-adobe-source-han-serif-cn-fonts 1.001-3
-adwaita-icon-theme 3.36.1-1
-alacritty 0.5.0-1
-alpm_octopi_utils 1.0.2-1
-alsa-lib 1.2.3.2-1
-alsa-plugins 1:1.2.2-2
-alsa-topology-conf 1.2.3-1
-alsa-ucm-conf 1.2.3-2
-alsa-utils 1.2.3-2
-aom 2.0.0-1
-appstream-glib 0.7.17-1
+aalib 1.4rc5-14    //
+acl 2.2.53-3        // 
+adobe-source-code-pro-fonts 2.030ro+1.050it-6   //字体
+adobe-source-han-sans-cn-fonts 2.001-2      // 字体
+adobe-source-han-serif-cn-fonts 1.001-3       //字体
+adwaita-icon-theme 3.36.1-1       //图标主题
+alacritty 0.5.0-1            //   终端
+alpm_octopi_utils 1.0.2-1    //   octopi 包管理
+alsa-lib 1.2.3.2-1           //alsa
+alsa-plugins 1:1.2.2-2       //alsa
+alsa-topology-conf 1.2.3-1    //alsa
+alsa-ucm-conf 1.2.3-2        //alsa
+alsa-utils 1.2.3-2           //alsa
+aom 2.0.0-1                  //
+appstream-glib 0.7.17-1      //
 archlinux-appstream-data 20200828-1
 archlinux-keyring 20200820-1
 archlinuxcn-keyring 20200728-1
 archlinuxcn-mirrorlist-git 20200703-1
-argon2 20190702-3
-aspell 0.60.8-2
+argon2 20190702-3       //
+aspell 0.60.8-2         //拼写检查
 aspell-en 2019.10.06-1
-at-spi2-atk 2.34.2-1
+at-spi2-atk 2.34.2-1     
 at-spi2-core 2.36.0-1
 atk 2.36.0-1
 atkmm 2.28.0-2
